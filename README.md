@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jairsmr
-- 👀 I’m interested in development full stack
-- 🌱 I’m currently learning Back-end
-- 📫 How to reach me jaismr2019@gmail.com
+- 👋 Oi, sou @jairsmr
+- 👀 Desenvolvedor Fullstack
+- 🌱 Atualmente atuo mais com backend
+- 📫 Email para contato: jairsmrodrigues@gmail.com
 
 <!---
 jairsmr/jairsmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
