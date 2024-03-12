@@ -1,6 +1,6 @@
 - 👋 Oi, sou @jairsmr
 - 👀 Desenvolvedor Fullstack
-- 🌱 Atualmente atuo mais com backend
+- 🌱 No momento atuo mais como desenvolvedor backend
 - 📫 Email para contato: jairsmrodrigues@gmail.com
 
 <!---
