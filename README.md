@@ -1,7 +1,7 @@
 - 👋 Oi, sou @jairsmr
 - 👀 Desenvolvedor Fullstack
-- 🌱 No momento atuo mais como desenvolvedor backend
-- 📫 Email para contato: jairsmrodrigues@gmail.com
+- 🌱 No momento atuo mais em backend
+- 📫 Email para contato: jairsmr2019@gmail.com
 
 <!---
 jairsmr/jairsmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
