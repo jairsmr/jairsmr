@@ -1,6 +1,5 @@
 - 👋 Olá, sou Jair Rodrigues
-- 👀 Desenvolvedor Fullstack
-- 🌱 No momento atuo mais em backend
+- 👀 Desenvolvedor Backend Python Pleno
 - 📫 Email para contato: jairsmrodrigues@gmail.com
 
 <!---
